@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "Andrew Programming",
+  "number": [
+    1234123,
+    4123123
+  ],
+  "address": {
+    "location": "california"
+  },
+  "cityList": [
+    {
+      "name": "LA",
+      "province": "CA"
+    },
+    {
+      "name": "NY",
+      "province": "NY"
+    }
+  ],
+  "contractor": false,
+  "role": "Manager"
+}
